@@ -1,6 +1,7 @@
 //========================================================================
 // TETRIS with M5STACK : 2018.01.20 Transplant by macsbug
 //                       2018.05.03 Modified by @shiakrunochi
+//                       2018.05.20 Modified by @rimksky
 // Controller : Buttons A = LEFT, B = RIGHT, C = START, ROTATE
 // Display    : Left = 100x240, Center = 120x240, Right = 100x240
 // Block      : 8ea, 12x12 pixel
